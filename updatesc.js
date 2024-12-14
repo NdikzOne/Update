@@ -1,5 +1,5 @@
 {
   "status": 200,
   "message": "Waktunya Update SC",
-  "UpdateDate": "2 Desember 202410:40:20"
+  "UpdateDate": "14 Desember 202408:24:20"
 }
